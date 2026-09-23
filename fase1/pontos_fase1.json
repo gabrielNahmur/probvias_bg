@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0967782586813,
+          -31.32237372020487
+        ]
+      },
+      "properties": {
+        "name": "pt1_fase1",
+        "color": "#164e63",
+        "codigo": "pt1_fase1",
+        "endereco": "R. São José, 299 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil",
+        "foto_url": "https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt1_fase1_1790117592208.jpeg",
+        "latitude": -31.32237372020487,
+        "iconClass": "Circle",
+        "longitude": -54.0967782586813,
+        "description": "<p>Buraco no revestimento asfáltico, com material terroso exposto e fissuras próximas. Descrição feita a partir da fotografia.</p><p>R. São José, 299 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil</p><p>Precisão GPS informada: 2.1 m</p><img src=\"https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt1_fase1_1790117592208.jpeg\" width=\"512\" style=\"max-width:100%;height:auto;\">",
+        "data_registro": "Record Date: 2026-09-22 19:53:12",
+        "precisao_gps_m": 2.1,
+        "observacao_visual": "Buraco no revestimento asfáltico, com material terroso exposto e fissuras próximas. Descrição feita a partir da fotografia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0969318151474,
+          -31.32237372020487
+        ]
+      },
+      "properties": {
+        "name": "pt2_fase1",
+        "color": "#164e63",
+        "codigo": "pt2_fase1",
+        "endereco": "R. São José, 301 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil",
+        "foto_url": "https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt2_fase1_1790117687643.jpeg",
+        "latitude": -31.32237372020487,
+        "iconClass": "Circle",
+        "longitude": -54.0969318151474,
+        "description": "<p>Buraco no asfalto, com bordas irregulares, agregado exposto e fissuras próximas. Descrição feita a partir da fotografia.</p><p>R. São José, 301 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil</p><p>Precisão GPS informada: 1.9 m</p><img src=\"https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt2_fase1_1790117687643.jpeg\" width=\"512\" style=\"max-width:100%;height:auto;\">",
+        "data_registro": "Record Date: 2026-09-22 19:54:47",
+        "precisao_gps_m": 1.9,
+        "observacao_visual": "Buraco no asfalto, com bordas irregulares, agregado exposto e fissuras próximas. Descrição feita a partir da fotografia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.09665118902922,
+          -31.321209736235314
+        ]
+      },
+      "properties": {
+        "name": "pt3_fase1",
+        "color": "#164e63",
+        "codigo": "pt3_fase1",
+        "endereco": "Rua Coronel Favorino, 99 - Getúlio Vargas, Bagé - RS, 96412-750, Brasil",
+        "foto_url": "https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt3_fase1_1790117815662.jpeg",
+        "latitude": -31.321209736235314,
+        "iconClass": "Circle",
+        "longitude": -54.09665118902922,
+        "description": "<p>Deterioração do pavimento com cavidades, agregado exposto e remendo asfáltico adjacente. Descrição feita a partir da fotografia.</p><p>Rua Coronel Favorino, 99 - Getúlio Vargas, Bagé - RS, 96412-750, Brasil</p><p>Precisão GPS informada: 1.6 m</p><img src=\"https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt3_fase1_1790117815662.jpeg\" width=\"512\" style=\"max-width:100%;height:auto;\">",
+        "data_registro": "Record Date: 2026-09-22 19:56:55",
+        "precisao_gps_m": 1.6,
+        "observacao_visual": "Deterioração do pavimento com cavidades, agregado exposto e remendo asfáltico adjacente. Descrição feita a partir da fotografia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.09754067659378,
+          -31.322253713664665
+        ]
+      },
+      "properties": {
+        "name": "pt4_fase1",
+        "color": "#164e63",
+        "codigo": "pt4_fase1",
+        "endereco": "R. São José, 345 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil",
+        "foto_url": "https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt4_fase1_1790118020874.jpeg",
+        "latitude": -31.322253713664665,
+        "iconClass": "Circle",
+        "longitude": -54.09754067659378,
+        "description": "<p>Cavidades no pavimento e material terroso exposto. A fotografia apresenta desfoque, limitando os detalhes. Descrição feita a partir da fotografia.</p><p>R. São José, 345 - Getúlio Vargas, Bagé - RS, 96412-680, Brasil</p><p>Precisão GPS informada: 1.83 m</p><img src=\"https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt4_fase1_1790118020874.jpeg\" width=\"512\" style=\"max-width:100%;height:auto;\">",
+        "data_registro": "Record Date: 2026-09-22 20:00:21",
+        "precisao_gps_m": 1.83,
+        "observacao_visual": "Cavidades no pavimento e material terroso exposto. A fotografia apresenta desfoque, limitando os detalhes. Descrição feita a partir da fotografia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.09666895866394,
+          -31.32112810788255
+        ]
+      },
+      "properties": {
+        "name": "pt5_fase1",
+        "color": "#b7791f",
+        "codigo": "pt5_fase1",
+        "endereco": "Rua Coronel Favorino, 99 - Getúlio Vargas, Bagé - RS, 96412-750, Brasil",
+        "foto_url": "https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt5_fase1_1790118379379.jpeg",
+        "latitude": -31.32112810788255,
+        "iconClass": "Circle",
+        "longitude": -54.09666895866394,
+        "description": "<p>Fotografia muito desfocada: não é possível caracterizar visualmente o problema na via. Registro mantido com as coordenadas originais, sem inferir o tipo de defeito.</p><p>Rua Coronel Favorino, 99 - Getúlio Vargas, Bagé - RS, 96412-750, Brasil</p><p>Precisão GPS informada: 2.37 m</p><img src=\"https://raw.githubusercontent.com/gabrielNahmur/probvias_bg/main/fase1/img_pt5_fase1_1790118379379.jpeg\" width=\"512\" style=\"max-width:100%;height:auto;\">",
+        "data_registro": "Record Date: 2026-09-22 20:06:19",
+        "precisao_gps_m": 2.37,
+        "observacao_visual": "Fotografia muito desfocada: não é possível caracterizar visualmente o problema na via. Registro mantido com as coordenadas originais, sem inferir o tipo de defeito."
+      }
+    }
+  ]
+}
